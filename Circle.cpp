@@ -28,3 +28,10 @@ void Circle::print() const {
 	Point::print();
 	cout << "Radius as " << radius << endl;
 }
+
+
+// just for understanding git.
+
+void foo() {
+	cout << "For git\n";
+}
